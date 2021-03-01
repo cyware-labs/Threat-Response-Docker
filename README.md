@@ -193,13 +193,13 @@ Below you can find further reference to various tools used in the Threat Respons
 | QRadio | [https://github.com/QTek/QRadio](https://github.com/QTek/QRadio) |
 | automater | [https://github.com/1aN0rmus/TekDefense-Automater](https://github.com/1aN0rmus/TekDefense-Automater) |
 | Volatility | [https://github.com/volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) |
-| IOC enricher |
+| IOC enricher | [https://github.com/cyware-labs/IOC-Enricher] |
 | Icewater | [https://github.com/SupportIntelligence/Icewater](https://github.com/SupportIntelligence/Icewater) |
 | harpoon | [https://github.com/Te-k/harpoon](https://github.com/Te-k/harpoon) |
 | combine | [https://github.com/mlsecproject/combine](https://github.com/mlsecproject/combine) |
 | threatingestor | [https://github.com/InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor) |
 | APT notes | [https://github.com/aptnotes](https://github.com/aptnotes) |
-| ConnectorBox |
+| ConnectorBox | [https://github.com/cyware-labs/ConnectorBox] |
 | ioc-finder | [https://github.com/fhightower/ioc-finder](https://github.com/fhightower/ioc-finder) |
 | bro-intel-generator | [https://github.com/exp0se/bro-intel-generator](https://github.com/exp0se/bro-intel-generator) |
 | Hachoir | [https://github.com/vstinner/hachoir](https://github.com/vstinner/hachoir) |
@@ -213,7 +213,7 @@ Below you can find further reference to various tools used in the Threat Respons
 | cti-stix-elevator | [https://github.com/oasis-open/cti-stix-elevator](https://github.com/oasis-open/cti-stix-elevator) |
 | cti-stix-slider | [https://github.com/oasis-open/cti-stix-slider](https://github.com/oasis-open/cti-stix-slider) |
 | cti-pattern-matcher | [https://github.com/oasis-open/cti-pattern-matcher](https://github.com/oasis-open/cti-pattern-matcher) |
-| STIXOps |
+| STIXOps | [https://github.com/cyware-labs/STIXOps] |
 | Stix generator | [https://pypi.org/project/stix2-generator/](https://pypi.org/project/stix2-generator/) |
 
 **Note:** Some tools will not work in their full functionality till the API keys have been updated in its respective areas of origin. Refer to the ReadMe link above for tutorials on each of the tools used.
