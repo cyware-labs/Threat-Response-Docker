@@ -120,7 +120,7 @@ We recommend to download the latest version of Docker as it stays updated with t
 
 You can either run the build.sh file to automatically fetch the image for you or follow the steps below
 
-1. docker run -dit --name trd -p 8081:80 cyware/threatresponsedocker
+1. docker run -dit --name trd -p 8081:80 cylabs/cy-threat-response
 2. docker exec -it trd bash
 
 **Note:** This docker exposes port 8081 as a HTTP server for allowing easy transfer of files from inside the docker to outside. Do note that this is 1 way and does not allow data transfer from outside the docker to inside.
