@@ -132,6 +132,7 @@ While the Threat ResponseDocker works without any additional API keys, to harnes
 - [AlienVault OTX](https://otx.alienvault.com/)
 - [BinaryEdge](https://www.binaryedge.io/)
 - [Censys](https://censys.io/register)
+- [CriminalIP](https://www.criminalip.io/)
 - [CertSpotter](https://sslmate.com/certspotter/pricing)
 - [CIRCL Passive DNS](https://www.circl.lu/services/passive-dns/)
 - [Farsight Dnsdb](https://www.farsightsecurity.com/dnsdb-community-edition/)
